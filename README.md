@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=Seungmai%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=SeungMai&fontSize=90)
 ### Hi there, Hello!🖤
 
 <br />
@@ -32,4 +32,3 @@ I'm not staying in one place, I'm constantly trying to develop and I'm always do
 <p align="center">
 <img src="https://img.shields.io/badge/Blogger-7ec04b?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
-
