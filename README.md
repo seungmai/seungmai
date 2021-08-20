@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?text=SeungMai&fontColor=fff&type=Soft&reversal=true&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?height=150&text=SeungMai&fontColor=fff&type=Soft&reversal=true&color=gradient)
 
 ### Hi there:)🇰🇷 🖤
 
