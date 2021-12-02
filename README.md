@@ -1,8 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?height=150&text=SeungMai&fontColor=fff&type=Soft&reversal=true&color=gradient)
 
 ### Hi there:)🇰🇷 🖤
-
-<br />
 안녕하세요! 저는 소프트웨어 개발자 지망생 이승민입니다. :)<br />
 저는 한 곳에 머무르지 않고 끊임없이 발전하려고 노력하고 있으며 항상 최고의 프런트엔드 개발자가 되기 위해 최선을 다하고 있습니다.
 <br /><br />
