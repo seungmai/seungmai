@@ -31,10 +31,3 @@ I'm not staying in one place, I'm constantly trying to develop and I'm always do
 Naverbolg : <a href="https://blog.naver.com/dltmdals3785/222235431596"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br/>
 velog : <a href="https://velog.io/@tmdals3785"><img src="https://img.shields.io/badge/Velog-5D87BF?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
-
-<br/>
-<h3 align="center">🐶 Me 🐶</h3>
-<p align="center">
-<a><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a src=""><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
