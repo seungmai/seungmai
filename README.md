@@ -23,13 +23,10 @@ I'm not staying in one place, I'm constantly trying to develop and I'm always do
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/></a>
 </p>
-<br/>
-<h3 align="center">🪄 Blog 🪄</h3>
 
+<h3 align="center">🪄 Blog 🪄</h3>
 <div align="center" style="text-align:center">
-  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdals3785)](https://velog.io/@tmdals3785)
-  
 </div>
 
 <h3 align="center"> 🐼 Me 🐼 </h3>
