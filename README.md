@@ -24,7 +24,6 @@ I'm not staying in one place, I'm constantly trying to develop and I'm always do
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/></a>
 </p>
 <br/>
-
 <h3 align="center">🪄 Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
