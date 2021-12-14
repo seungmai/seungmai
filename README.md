@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76721552/145981595-b80daa82-b9f3-4369-8e2e-fa7cb8fc3a52.png" width="100%" height="180">
+![reversal](https://capsule-render.vercel.app/api?height=150&text=SeungMai&fontColor=fff&type=Soft&reversal=true&color=gradient)
 
 ### Hi there:)🇰🇷 🖤
 
@@ -23,10 +23,8 @@ I'm not staying in one place, I'm constantly trying to develop and I'm always do
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/></a>
 </p>
-<br/>
 
 <h3 align="center">🪄 Blog 🪄</h3>
-
 <div align="center" style="text-align:center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdals3785)](https://velog.io/@tmdals3785)
