@@ -3,7 +3,7 @@
 ### Hi there:)🇰🇷 🖤
 
 안녕하세요! 저는 소프트웨어 개발자 지망생 이승민입니다. :)<br />
-저는 한 곳에 머무르지 않고 끊임없이 발전하려고 노력하고 있으며 항상 최고의 프런트엔드 개발자가 되기 위해 최선을 다하고 있습니다.
+저는 한 곳에 머무르지 않고 끊임없이 발전하려고 노력하고 있으며 항상 최고의 프런트엔드 개발자가 되기 위해 최선을 다하고 있습니다
 <br /><br />
 Hi! My name is Lee Seung-min, a software developer. :)
 I'm not staying in one place, I'm constantly trying to develop and I'm always doing my best to be the best front-end developer.
