@@ -14,7 +14,7 @@
 Hello! I'm the front-end developer, Lee Seung Min. :)
 I'm not staying in one place, I'm constantly trying to develop and I'm always doing my best to be the best front-end developer.
 
-<h3 align="center"> WIL Blog </h3>
+<h4 align="center"> WIL Blog </h4>
 <div align="center" style="text-align:center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdals3785)](https://velog.io/@tmdals3785)
