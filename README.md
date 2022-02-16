@@ -8,11 +8,10 @@
   </div>
 <br/>
 
-안녕하세요! 프론트엔드 개발자 이승민입니다. :)<br />
-저는 한 곳에 머무르지 않고 끊임없이 발전하려고 노력하고 있으며 항상 최고의 프런트엔드 개발자가 되기 위해 최선을 다하고 있습니다.
+프론트엔드 개발자 이승민입니다. :)<br />
+실행하는 것에 있어 두려워하지 않고 모든지 해보는 성격으로 도전적인 것을 좋아합니다. 평소에 개발하면서 고민되는 지점이 생길 때마다 글로 정리하는 것을 좋아할 뿐만 아니라 사용자가 불편한 고충을 마주치지 않는지 살피며 매끄러운 경험 설계를 중시합니다.
 <br /><br />
-Hello! I'm the front-end developer, Lee Seung Min. :)
-I'm not staying in one place, I'm constantly trying to develop and I'm always doing my best to be the best front-end developer.
+I'm Lee Seung-min, a front-end developer. I like to be challenging with the personality of doing everything without fear of implementing it. Not only do you like to organize things in writing whenever you have concerns while developing them, but you also value smooth experience design by looking at whether users encounter inconvenient hardships.
 
 <h4 align="center"> WIL Blog </h4>
 <div align="center" style="text-align:center">
@@ -20,6 +19,3 @@ I'm not staying in one place, I'm constantly trying to develop and I'm always do
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdals3785)](https://velog.io/@tmdals3785)
   
 </div>
-
-
-
